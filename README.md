@@ -20,4 +20,4 @@ Want to get in touch ☎️? Check out [my website](itsjoeoui.com) for more info
 
 ****Have a nice day!****
 
-![hahayes](images/nyancat.gif)
+![hahayes](https://github.com/itsjoeoui/itsjoeoui/blob/master/images/nyancat.gif)
