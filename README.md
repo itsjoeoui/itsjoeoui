@@ -2,7 +2,7 @@
 
 I'm a 17 years old college student studying **Pure and Applied science** 🔬.
 
-I like **Android**, and I'm also a core team member at @PixelExperience.
+I like **Android**, and I'm also a core team member at [@PixelExperience](https://github.com/PixelExperience).
 
 Currently, I build ⚙️custom ROM (PixelExperience) for **OnePlus 5/5T**. 
 
