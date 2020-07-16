@@ -18,7 +18,7 @@ I have been a **MacOS** user for years, and I use PD for **Linux/Windows** VM.
 
 If you find someone with the username **itsjoeoui** on any platform, feel free to say hi 😊!
 
-Want to get in touch ☎️? Check out [my website](https://itsjoeoui.com) for more informations:)
+Want to get in touch 🤝 ? Check out [my website](https://itsjoeoui.com) for more informations:)
 
 ****Have a nice day!****
 
