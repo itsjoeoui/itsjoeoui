@@ -6,7 +6,7 @@ I'm also a core team member at [@PixelExperience](https://github.com/PixelExperi
 
 I like **Android**, but **iOS** is honestly much better XD. /runs 🏃💨💨💨
 
-Currently, I build ⚙️ custom ROM (PixelExperience) for **OnePlus 5/5T**. 
+I used to build ⚙️ custom ROM (PixelExperience) for **OnePlus 5/5T**.
 
 [![Telegram](https://img.shields.io/badge/dynamic/json?style=flat&logo=telegram&label=PixelExperience+|+OP5/5T+|+OFFICIAL&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Ditsjoeouichat&longCache=true)](https://t.me/itsjoeouichat)
 
