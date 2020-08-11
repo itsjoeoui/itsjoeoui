@@ -4,7 +4,7 @@ I'm a 17 years old college student studying **Pure and Applied science** 🔬.
 
 I'm also a core team member at [@PixelExperience](https://github.com/PixelExperience) ([Official Website](https://download.pixelexperience.org/))
 
-I like **Android**, but **iOS** is honestly much better XD. /runs 🏃💨💨💨
+I like **Android**, but honestly, **iOS** is  much better XD. /runs 🏃💨💨💨
 
 I used to build ⚙️ custom ROM (PixelExperience) for **OnePlus 5/5T**.
 
