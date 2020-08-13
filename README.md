@@ -1,25 +1,23 @@
-# Hello there, welcome to my GitHub profile 👋
+My name is Xiaowei Yu, and I'm popularly known around the internet as **itsjoeoui**.
 
-I'm a 17 years old college student studying **Pure and Applied science** 🔬.
+I'm a 17 years old college student studying **Pure and Applied science**.
 
-I'm also a core team member at [@PixelExperience](https://github.com/PixelExperience) ([Official Website](https://download.pixelexperience.org/))
+I'm also a core team member at **[@PixelExperience](https://github.com/PixelExperience)** ([Our website](https://download.pixelexperience.org/))
 
-I like **Android**, but honestly, **iOS** is  much better XD. /runs 🏃💨💨💨
 
-I used to build ⚙️ custom ROM (PixelExperience) for **OnePlus 5/5T**.
 
-[![Telegram](https://img.shields.io/badge/dynamic/json?style=flat&logo=telegram&label=PixelExperience+|+OP5/5T+|+OFFICIAL&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Ditsjoeouichat&longCache=true)](https://t.me/itsjoeouichat)
+I like **Android**. However, not going to lie, **iOS** is still my favourate
 
-**Python** is my go-to programming language, and I know a bit of **Java** as well.
+**Python** is my go-to programming language, and sometimes I use **Java** as well.
 
-I have been a **MacOS** user for years, and I use PD for **Linux/Windows** VM.
+Currently, I'm learning **Django** so I can fill the gaps in my frontend knowledge.
 
-**VSCode** is my primary choice for code editor, and **IntelliJ** for Java of cource.
+I also have plans to learn **C/C++** in the future for kernel development purpose.
 
-If you find someone with the username **itsjoeoui** on any platform, feel free to say hi 😊!
+I have been a **macOS** user for years, and I use PD for **Linux/Windows** VM.
 
-Want to get in touch 🤝 ? Check out [my website](https://itsjoeoui.com) for more informations:)
+**VSCode** is my primary choice for code editor, and **VIM** for command-line interface.
 
-****Have a nice day!****
+If you find someone with the username **itsjoeoui** on any platform, feel free to say hi!
 
-![hahayes](https://github.com/itsjoeoui/itsjoeoui/blob/master/images/nyancat.gif)
+**Have a nice day :)**
