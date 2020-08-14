@@ -23,3 +23,5 @@ I have been a **macOS** user for years, and I use PD for **Linux/Windows** VM.
 If you find someone with the username **itsjoeoui** on any platform, feel free to say hi!
 
 **Have a nice day :)**
+
+[![itsjoeoui github stats](https://github-readme-stats.vercel.app/api?username=itsjoeoui&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/itsjoeoui)
