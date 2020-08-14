@@ -1,12 +1,12 @@
 # $WHOAMI
 
+Hello there! 👋
+
 My name is Xiaowei Yu, and I'm popularly known around the internet as **itsjoeoui**.
 
 I'm a 17 years old college student studying **Pure and Applied science**.
 
 I'm also a core team member at **[@PixelExperience](https://github.com/PixelExperience)** ([Our website](https://download.pixelexperience.org/))
-
-
 
 I like **Android**. However, not going to lie, **iOS** is still my favourate xD.
 
