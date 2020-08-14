@@ -8,7 +8,7 @@ I'm also a core team member at **[@PixelExperience](https://github.com/PixelExpe
 
 
 
-I like **Android**. However, not going to lie, **iOS** is still my favourate
+I like **Android**. However, not going to lie, **iOS** is still my favourate xD.
 
 **Python** is my go-to programming language, and sometimes I use **Java** as well.
 
