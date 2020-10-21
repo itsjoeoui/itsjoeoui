@@ -4,7 +4,7 @@
 
 This is Xiaowei/Joey, and I'm popularly known around the internet as **itsjoeoui**.
 
-I'm a 17 years old college student studying **Pure and Applied science**.
+I'm 17 years old, and I'm studying **Pure and Applied science** at Dawson.
 
 I'm also a part of team **[@PixelExperience](https://github.com/PixelExperience)** ([Our website](https://download.pixelexperience.org/))
 
