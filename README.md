@@ -1,6 +1,4 @@
-<p>
-<strong><h1>$WHOAMI > 👋 <a href="https://itsjoeoui.com/about/">README</a> :) </h1></strong> 
-</p>
+<center> <h1><strong>$WHOAMI > 👋 <a href="https://itsjoeoui.com/about/">README</a></strong> :)</h1> </center>
 
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
