@@ -1,4 +1,4 @@
-# $WHOAMI > 👋 [README](https://itsjoeoui.com/about/) :)
+<center> <h1><strong>$WHOAMI > 👋 <a href="https://itsjoeoui.com/about/">README</a></strong> :)</h1> </center>
 
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
@@ -11,8 +11,4 @@
 </p>
 <p></p>
 <p></p>
-</p>
-
-<p align="center">
-<img src="images/nyancat.gif">
 </p>
